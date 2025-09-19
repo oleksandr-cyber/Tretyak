@@ -1,0 +1,17 @@
+body {
+    background-color: darkseagreen;
+    font-family: Arial, sans-serif;
+}
+header {
+    text-align: center;
+}
+p img {
+  margin-left: 200px;
+  width: 300px;
+  border: 2px solid darkgreen
+}
+
+footer{
+    background-color: coral;
+    color: blue;
+}
